@@ -1,0 +1,2 @@
+# Temperature-and-humidity-Monitoring
+In this Project I built a Temperature and humidity monitoring device using arduino . We used NODEMCU ESP8266 and DHT11 sensor to know the humidity and temperature. . DHT11 uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data . We used the cloud platform thingspeak to display our values of temperature and humidity k which gave data about temperature and humidity in every 5 seconds.
